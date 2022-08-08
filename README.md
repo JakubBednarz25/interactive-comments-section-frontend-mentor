@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://jakubbednarz25.github.io/product-preview-card-frontend-mentor/](https://jakubbednarz25.github.io/product-preview-card-frontend-mentor/)
-- Live Site URL: [https://jakubbednarz25.github.io/product-preview-card-frontend-mentor/](https://jakubbednarz25.github.io/product-preview-card-frontend-mentor/)
+- Solution URL: [https://jakubbednarz25.github.io/interactive-comments-section-frontend-mentor/](https://jakubbednarz25.github.io/interactive-comments-section-frontend-mentor/)
+- Live Site URL: [https://jakubbednarz25.github.io/interactive-comments-section-frontend-mentor/](https://jakubbednarz25.github.io/interactive-comments-section-frontend-mentor/)
 
 ## My process
 
